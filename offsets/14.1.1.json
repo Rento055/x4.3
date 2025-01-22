@@ -1,5 +1,12 @@
 {
-  "status": "still", 
+  /* データ情報 */
+  "config": {
+    "status": "still",   // completeになるまで待ってね
+    "update": "2025/1/22"
+  }, 
+  
+  /* バージョン・オフセット */
+  "version": "14.1.1", 
   "offsets": {
     "catfood": null, 
     "xp": null, 
