@@ -1,9 +1,12 @@
 {
-  "catfood": null, 
-  "xp": null, 
-  "ticket": null, 
-  "stage": null, 
-  "char": null, 
-  "err_num": []
-  "items": null
+  "status": "still", 
+  "offsets": {
+    "catfood": null, 
+    "xp": null, 
+    "ticket": null, 
+    "stage": null, 
+    "char": null, 
+    "err_num": [], 
+    "items": null
+  }
 }
