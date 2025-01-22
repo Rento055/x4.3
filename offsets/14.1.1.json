@@ -2,5 +2,8 @@
   "catfood": null, 
   "xp": null, 
   "ticket": null, 
-  "char": null
+  "stage": null, 
+  "char": null, 
+  "err_char": []
+  "items": null
 }
