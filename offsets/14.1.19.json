@@ -13,7 +13,7 @@
     "ticket": 90, 
     "stage": 11, 
     "char": 11, 
-    "err_num": "err_num is not yet assigned", 
+    "err_num": [1, 2, 3], 
     "items": 11
   }
 }
