@@ -9,7 +9,7 @@
   "version": "14.1.14", 
   "offsets": {
     "catfood": 32, 
-    "xp": "xp is not yet assigned", 
+    "xp": -32, 
     "ticket": "ticket is not yet assigned", 
     "stage": "stage is not yet assigned", 
     "char": "char is not yet assigned", 
