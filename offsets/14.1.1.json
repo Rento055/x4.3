@@ -11,7 +11,7 @@
     "catfood": 32, 
     "xp": -32, 
     "ticket": "ticket is not yet assigned", 
-    "stage": "stage is not yet assigned", 
+    "stage": 280, 
     "char": 33, 
     "err_num": "err_num is not yet assigned", 
     "items": "items is not yet assigned"
