@@ -1,14 +1,14 @@
 {
   /* データ情報 */
   "config": {
-    "status": "complete", 
+    "status": "still",   // completeになるまで待ってね
     "update": "Sat Jan 25 2025 12:31:28 GMT+0000 (Coordinated Universal Time)"
   }, 
   
   /* バージョン・オフセット */
   "version": "14.1.1", 
   "offsets": {
-    "catfood": -280, 
+    "catfood": "catfood is not yet assigned", 
     "xp": 64, 
     "ticket": 2993488, 
     "stage": 5368, 
