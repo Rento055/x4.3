@@ -2,7 +2,7 @@
   /* データ情報 */
   "config": {
     "status": "still",   // completeになるまで待ってね
-    "update": "date}"
+    "update": "date"
   }, 
   
   /* バージョン・オフセット */
