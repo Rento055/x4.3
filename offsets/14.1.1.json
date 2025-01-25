@@ -10,9 +10,9 @@
   "offsets": {
     "catfood": 32, 
     "xp": -32, 
-    "ticket": 33, 
+    "ticket": "ticket is not yet assigned", 
     "stage": "stage is not yet assigned", 
-    "char": "char is not yet assigned", 
+    "char": 33, 
     "err_num": "err_num is not yet assigned", 
     "items": "items is not yet assigned"
   }
