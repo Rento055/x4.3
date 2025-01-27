@@ -110,7 +110,7 @@ function edit(offs, val, name, bool)
 end
 
 function p1(v)
-    edit(-0x2c8, v, "猫缶", true);
+    edit(-0x118, v, "猫缶", true);
     gg.toast("猫缶成功");
 end
 
@@ -144,7 +144,7 @@ end
 
 function p10()
     gg.clearResults();
-    gg.searchNumber("0~~0", 4, false, 2^29, base +0x14f8, base +0x1d40);
+    gg.searchNumber("0~~0", 4, false, 2^29, base +0x654, base +0xe9c);
     gg.getResults(11);
     gg.editAll(("304;"):rep(10).."256", 4);
     gg.getResults(520, 11);
