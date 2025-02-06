@@ -10,10 +10,10 @@
   "offsets": {
     "catfood": -280, 
     "xp": "xp is not yet assigned", 
-    "ticket": 3011876, 
+    "ticket": "ticket is not yet assigned", 
     "stage": "stage is not yet assigned", 
     "char": [243236, 782], 
-    "err_num": "err_num is not yet assigned", 
+    "err_num": [156, 183, 286, 321, 340, 354, 433, 434, 466, 493, 498, 499, 500, 501, 674, 741, 742, 743, 744, 745, 746], 
     "items": 4029052
   }
 }
