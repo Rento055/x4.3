@@ -1,0 +1,19 @@
+{
+  /* データ情報 */
+  "config": {
+    "status": "still",   // completeになるまで待ってね
+    "update": "Sun Mar 09 2025 06:12:07 GMT+0000 (Coordinated Universal Time)"
+  }, 
+  
+  /* バージョン・オフセット */
+  "version": "1.0.9", 
+  "offsets": {
+    "catfood": "catfood is not yet assigned", 
+    "xp": "xp is not yet assigned", 
+    "ticket": "ticket is not yet assigned", 
+    "stage": "stage is not yet assigned", 
+    "char": "char is not yet assigned", 
+    "err_num": [156, 183, 286, 321, 340, 354, 433, 434, 466, 493, 498, 499, 500, 501, 674, 741, 742, 743, 744, 745, 746], 
+    "items": "items is not yet assigned"
+  }
+}
