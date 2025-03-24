@@ -1,0 +1,19 @@
+{
+  /* データ情報 */
+  "config": {
+    "status": "still",   // completeになるまで待ってね
+    "update": "Mon Mar 24 2025 03:33:30 GMT+0000 (Coordinated Universal Time)"
+  }, 
+  
+  /* バージョン・オフセット */
+  "version": "14.3.0", 
+  "offsets": {
+    "catfood": "catfood is not yet assigned", 
+    "xp": "xp is not yet assigned", 
+    "ticket": "ticket is not yet assigned", 
+    "stage": "stage is not yet assigned", 
+    "char": [243380, 800], 
+    "err_num": "err_num is not yet assigned", 
+    "items": "items is not yet assigned"
+  }
+}
