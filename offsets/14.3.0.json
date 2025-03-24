@@ -8,9 +8,9 @@
   /* バージョン・オフセット */
   "version": "14.3.0", 
   "offsets": {
-    "catfood": -224, 
+    "catfood": "catfood is not yet assigned", 
     "xp": 64, 
-    "ticket": "ticket is not yet assigned", 
+    "ticket": 2638836, 
     "stage": 1692, 
     "char": [243380, 800], 
     "err_num": "err_num is not yet assigned", 
