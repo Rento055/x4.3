@@ -9,7 +9,7 @@
   "version": "14.1.0", 
   "offsets": {
     "catfood": -280, 
-    "xp": "xp is not yet assigned", 
+    "xp": 64, 
     "ticket": "ticket is not yet assigned", 
     "stage": 1620, 
     "char": [243236, 782], 
