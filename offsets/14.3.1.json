@@ -12,7 +12,7 @@
     "xp": 64, 
     "ticket": 3043732, 
     "stage": "stage is not yet assigned", 
-    "char": "char is not yet assigned", 
+    "char": [243380, 800], 
     "err_num": "err_num is not yet assigned", 
     "items": "items is not yet assigned"
   }
