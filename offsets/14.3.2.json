@@ -1,7 +1,7 @@
 {
   /* データ情報 */
   "config": {
-    "status": "still",   // completeになるまで待ってね
+    "status": "complete", 
     "update": "Fri Apr 11 2025 08:35:07 GMT+0000 (Coordinated Universal Time)"
   }, 
   
@@ -13,7 +13,7 @@
     "ticket": 3043732, 
     "stage": 1692, 
     "char": [243380, 800], 
-    "err_num": "err_num is not yet assigned", 
+    "err_num": [156, 183, 286, 321, 340, 354, 433, 434, 466, 493, 498, 499, 500, 501, 674, 741, 742, 743, 744, 745, 746, 789], 
     "items": 4127300
   }
 }
