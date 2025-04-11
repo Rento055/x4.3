@@ -8,8 +8,8 @@
   /* バージョン・オフセット */
   "version": "14.3.2", 
   "offsets": {
-    "catfood": -280, 
-    "xp": "xp is not yet assigned", 
+    "catfood": "catfood is not yet assigned", 
+    "xp": 64, 
     "ticket": "ticket is not yet assigned", 
     "stage": 1692, 
     "char": "char is not yet assigned", 
