@@ -9,8 +9,8 @@
   "version": "14.4.0", 
   "offsets": {
     "catfood": -280, 
-    "xp": 64, 
-    "ticket": "ticket is not yet assigned", 
+    "xp": "xp is not yet assigned", 
+    "ticket": 3075500, 
     "stage": "stage is not yet assigned", 
     "char": [243428, 812], 
     "err_num": [156, 183, 286, 321, 340, 354, 433, 434, 466, 493, 498, 499, 500, 501, 674, 741, 742, 743, 744, 745, 746, 789, 800, 801, 802, 803, 804, 805, 806, 807, 808, 809, 810, 811], 
