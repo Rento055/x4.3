@@ -12,8 +12,8 @@
     "xp": "xp is not yet assigned", 
     "ticket": "ticket is not yet assigned", 
     "stage": "stage is not yet assigned", 
-    "char": "char is not yet assigned", 
+    "char": [243428, 812], 
     "err_num": "err_num is not yet assigned", 
-    "items": 4165516
+    "items": "items is not yet assigned"
   }
 }
