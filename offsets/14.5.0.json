@@ -1,0 +1,19 @@
+{
+  /* データ情報 */
+  "config": {
+    "status": "still",   // completeになるまで待ってね
+    "update": "Thu Jul 03 2025 02:35:52 GMT+0000 (Coordinated Universal Time)"
+  }, 
+  
+  /* バージョン・オフセット */
+  "version": "14.5.0", 
+  "offsets": {
+    "catfood": -280, 
+    "xp": "xp is not yet assigned", 
+    "ticket": "ticket is not yet assigned", 
+    "stage": "stage is not yet assigned", 
+    "char": "char is not yet assigned", 
+    "err_num": "err_num is not yet assigned", 
+    "items": "items is not yet assigned"
+  }
+}
